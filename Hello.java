@@ -1,6 +1,10 @@
+
 // For commend line git tutorial
-// Local repository modification
-//
+// Local repository modificatiol
+// for command line git tutorial
+// GitHub modefication
+
+
 public class Hello{
 	public static void main(String[] args){
               System.out.println("HELLO GIT!");
